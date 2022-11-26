@@ -1,0 +1,38 @@
+{
+    "events": [
+        {
+            "about": {
+                "title": "READY TO ENTER INTO THE FUTURE OF DENTISTRY?",
+                "duration": "3 Days",
+                "internationalSpeakers": "8+ INTERNATIONAL SPEAKERS",
+                "learningStatus": "LIMITLESS LEARNING",
+                "someInfo": "TO START DIGITAL DENTISTRY IN CLINICAL PRACTISE",
+                "details": "The world is changing due to the digital revolution as computers and other digital devices are making previously labor-intensive operations simpler,",
+                "deatilsSpans": "quiker, affordable, and more dependable"
+            },
+            "location": {
+                "longitude": 73.856255,
+                "latitude": 18.516726,
+                "location": "Pune, India"
+            },
+            "speakers": {
+                "linkdInProfile": "profile's url"
+            },
+            "networkImages": {
+                "image1": {
+                    "url": "https://edelweisspublications.com/edelweiss/upload/keyword_images/1411181017_editor.jpg"
+                },
+                "image2": {
+                    "url": "https://c8.alamy.com/comp/2A90YNJ/tooth-cavity-chronic-disease-painful-concept-medical-help-therapy-treatment-innovation-laser-dentistry-pain-oral-dental-medical-care-poster-2A90YNJ.jpg"
+                },
+                "image3": {
+                    "url": "https://thumbs.dreamstime.com/b/d-tooth-innovation-robot-arm-polygonal-concept-stomatology-symbol-low-poly-triangle-abstract-oral-dental-medical-care-d-tooth-127921353.jpg"
+                }
+            },
+            "_id": "638202b15f8e343bc0e572d5",
+            "name": "International Digital Dentistry & Implantology Conclave 2022",
+            "backgroudimage": "https://images.adsttc.com/media/images/60a7/e6a9/7480/a64f/917b/4e69/large_jpg/suhrc-image-01-entrance-porch.jpg?1621616341",
+            "__v": 0
+        }
+    ]
+}
